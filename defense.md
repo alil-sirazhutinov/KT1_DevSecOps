@@ -42,10 +42,10 @@ git show d190a4f:project-notes.md
 
 ## Что показать
 
-- [Репозиторий](https://github.com/alil-sirazhutinov/pantry-expiry-service).
-- [Коммиты](https://github.com/alil-sirazhutinov/pantry-expiry-service/commits/main).
-- [Ветки](https://github.com/alil-sirazhutinov/pantry-expiry-service/branches).
-- [Граф Network](https://github.com/alil-sirazhutinov/pantry-expiry-service/network).
+- [Репозиторий](https://github.com/alil-sirazhutinov/KT1_DevSecOps).
+- [Коммиты](https://github.com/alil-sirazhutinov/KT1_DevSecOps/commits/main).
+- [Ветки](https://github.com/alil-sirazhutinov/KT1_DevSecOps/branches).
+- [Граф Network](https://github.com/alil-sirazhutinov/KT1_DevSecOps/network).
 - Описание конфликта и коммит d190a4f.
 
 Сдать ссылку на репозиторий в систему обучения.

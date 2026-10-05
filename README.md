@@ -21,8 +21,8 @@ Git → Linux → Docker → Docker Compose → Архитектура → Фи�
 
 ## GitHub
 
-[Публичный репозиторий](https://github.com/alil-sirazhutinov/pantry-expiry-service).
-[Граф GitHub Network](https://github.com/alil-sirazhutinov/pantry-expiry-service/network).
+[Публичный репозиторий](https://github.com/alil-sirazhutinov/KT1_DevSecOps).
+[Граф GitHub Network](https://github.com/alil-sirazhutinov/KT1_DevSecOps/network).
 
 ## Git workflow и критерии
 
@@ -33,7 +33,7 @@ Git → Linux → Docker → Docker Compose → Архитектура → Фи�
 | Merge в main | `14b8c5a` — категории, `d190a4f` — политика сроков, `790dbf4` — валидация |
 | Конфликт | Одна строка project-notes.md; разрешён отдельным коммитом `d190a4f` |
 | Описание конфликта | [git-conflict.md](git-conflict.md) |
-| Граф веток | [GitHub Network](https://github.com/alil-sirazhutinov/pantry-expiry-service/network), проверен 05.10.2026 |
+| Граф веток | [GitHub Network](https://github.com/alil-sirazhutinov/KT1_DevSecOps/network), проверен 05.10.2026 |
 | Защита | [defense.md](defense.md) |
 
 ## Скриншот GitHub Network

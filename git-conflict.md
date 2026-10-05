@@ -44,7 +44,7 @@ git add project-notes.md expiry-examples.md
 git commit -m "fix: resolve warning threshold conflict with configurable default"
 ```
 
-Коммит исправления: [`d190a4f`](https://github.com/alil-sirazhutinov/pantry-expiry-service/commit/d190a4f).
+Коммит исправления: [`d190a4f`](https://github.com/alil-sirazhutinov/KT1_DevSecOps/commit/d190a4f).
 Это merge-коммит с двумя родителями: `1764553` и `933c3fa`.
 
 ## Проверка без изменения рабочих файлов
