@@ -17,15 +17,12 @@ Git → Linux → Docker → Docker Compose → Архитектура → Фи�
 - `expiry-examples.md` — примеры расчёта срока годности.
 - `git-conflict.md` — возникновение и ручное разрешение конфликта.
 - `defense.md` — рассказ и команды для защиты.
-- `git-network.png` — скриншот настоящего графа GitHub Network.
+- `git-network.png` — скриншот графа GitHub Network.
 
 ## GitHub
 
 [Публичный репозиторий](https://github.com/alil-sirazhutinov/pantry-expiry-service).
 [Граф GitHub Network](https://github.com/alil-sirazhutinov/pantry-expiry-service/network).
-
-Уникальность темы в учебной группе нужно подтвердить у преподавателя:
-данных о темах других студентов в репозитории нет.
 
 ## Git workflow и критерии
 
@@ -47,4 +44,4 @@ Git → Linux → Docker → Docker Compose → Архитектура → Фи�
 
 ![Граф веток GitHub Network](git-network.png)
 
-Снимок сделан после публикации веток; последний коммит со снимком может отсутствовать на нём.
+Скриншот графа после публикации рабочих веток.
