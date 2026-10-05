@@ -25,3 +25,19 @@ Git → Linux → Docker → Docker Compose → Архитектура → Фи�
 
 Уникальность темы в учебной группе нужно подтвердить у преподавателя:
 данных о темах других студентов в репозитории нет.
+
+## Git workflow и критерии
+
+| Требование | Результат |
+|---|---|
+| Коммиты | Более 6 осмысленных коммитов: тема, сущности, API, категории, предупреждения, валидация, слияния и отчёт |
+| Ветки | `main`, `feature/categories`, `feature/expiry-policy`, `feature/validation` |
+| Merge в main | `14b8c5a` — категории, `d190a4f` — политика сроков, `790dbf4` — валидация |
+| Конфликт | Одна строка project-notes.md; разрешён отдельным коммитом `d190a4f` |
+| Описание конфликта | [git-conflict.md](git-conflict.md) |
+| Граф веток | [GitHub Network](https://github.com/alil-sirazhutinov/pantry-expiry-service/network) |
+| Защита | [defense.md](defense.md) |
+
+## Ссылка для сдачи
+
+[https://github.com/alil-sirazhutinov/pantry-expiry-service](https://github.com/alil-sirazhutinov/pantry-expiry-service)
